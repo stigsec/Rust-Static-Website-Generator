@@ -1,0 +1,9 @@
+[package]
+name = "rswg"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+pulldown-cmark = "0.9"
+tera = "1.14"
+clap = "4.0"
